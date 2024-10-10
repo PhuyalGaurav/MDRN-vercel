@@ -20,7 +20,7 @@ const Navbar = ({ navItems, scrolled, navOpen, toggleNavbar }) => {
           scrolled ? "gap-1 p-2" : "gap-3 p-2"
         }`}
       >
-        <img src={logo} alt="logo's png" className="w-45 max-w-xs h-auto" />
+        <img src={logo} alt="logo's png" className="w-40 max-w-xs h-auto" />
         <div className="hidden lg:flex items-center justify-center">
           <a
             href="https://discord.gg/cWwp2w2GwZ"

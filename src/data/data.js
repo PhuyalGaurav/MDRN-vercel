@@ -46,7 +46,7 @@ export const data = [
   {
     id: 1,
     title: "Research Papers",
-    text: "Our club members actively engage in writing and publishing research papers in various scientific journals.",
+    text: "Our club members actively engage in writing and publishing research papers in various journals.",
     image: analytics,
   },
   {
